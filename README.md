@@ -1,5 +1,6 @@
-hi, welcome!\
-I am Nika 👩🏻‍💻
+hi, welcome!
+
+I am Nika, a UX Engineer doing Design Systems 👩🏻‍💻
 
 ✨ my pronouns are **she/her**\
 ✨ currently working at [field](https://field.inc)\
