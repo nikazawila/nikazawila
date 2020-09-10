@@ -1,6 +1,6 @@
 hi, welcome!
 
-I am Nika, a UX Engineer doing Design Systems 👩🏻‍💻
+I am Nika, UX Engineer doing Design Systems 👩🏻‍💻
 
 ✨ my pronouns are **she/her**\
 ✨ currently working at [field](https://field.inc)\
