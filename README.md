@@ -6,10 +6,5 @@ I am Nika, UX Engineer doing Design Systems 👩🏻‍💻
 ✨ I am currently working at [field](https://field.inc)\
 ✨ ask me about CSS, Design Systems and how to support womxn in tech 
 
-Find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2]
-
-[1.2]: http://i.imgur.com/wWzX9uB.png
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
-
-[1]: https://twitter.com/nikazawila
-[2]: https://www.linkedin.com/in/nikazawila/
+Find me on:
+<p><a href="https://github.com/nikazawila" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/nikazawila" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/nikazawila" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
