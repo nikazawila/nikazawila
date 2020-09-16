@@ -1,4 +1,4 @@
-hi!
+hi there!
 
 I am Nika, UX Engineer doing Design Systems 👩🏻‍💻
 
