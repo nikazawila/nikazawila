@@ -1,6 +1,7 @@
 hello!
 
 I'm Nika, Engineering Manager specializing in Design Systems 👩🏻‍💻
+Currently leading a DS team at <a href="https://productboard.com" target="_blank">Productboard</a> 
 
 ✨ my pronouns are **she/her**\
 ✨ ask me about CSS, Design Systems and how to support women in tech 
