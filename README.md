@@ -1,6 +1,6 @@
 hello!
 
-I'm Nika, UX Engineer doing Design Systems 👩🏻‍💻
+I'm Nika, Engineering Manager specializing in Design Systems 👩🏻‍💻
 
 ✨ my pronouns are **she/her**\
 ✨ ask me about CSS, Design Systems and how to support women in tech 
