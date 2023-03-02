@@ -1,7 +1,7 @@
 hello!
 
 I'm Nika, an Engineering Manager specializing in Design Systems 👩🏻‍💻  
-Currently leading a DS team at <a href="https://productboard.com" target="_blank">Productboard</a>   
+Currently leading a Growth team at <a href="https://babbel.com" target="_blank">Babbel</a>   
 
 ✨ my pronouns are **she/her/hers**\
 ✨ ask me about CSS, Design Systems and how to support women in tech 
